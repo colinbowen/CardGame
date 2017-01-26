@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Test()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Test\n
+comment1.params=
+comment1.target=void\ createCards()
+comment2.params=
+comment2.target=void\ printCards()
+numComments=3

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PileOfCards()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ PileofCards.\n
+comment1.params=
+comment1.target=void\ createFullDeck()
+comment1.text=\n\ Create\ one\ of\ each\ of\ the\ 52\ cards\ in\ a\ standard\ deck\ of\ cards.\n
+comment2.params=
+comment2.target=void\ shuffle()
+comment2.text=\n\ Reorganises\ the\ cards\ into\ a\ random\ order.\ \n
+comment3.params=
+comment3.target=Card\ dealTopCard()
+comment3.text=\n\ Removes\ the\ top\ card\ from\ the\ stack\ and\ returns\ it.\n
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment4.text=\n\ Checks\ to\ see\ if\ there\ are\ any\ cards\ in\ the\ stack.Returns\ true\n\ if\ and\ only\ if\ there\ are\ no\ cards\ in\ the\ stack.\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Returns\ a\ String\ listing\ all\ of\ the\ cards\ in\ the\ stack\ in\ order.\n
+numComments=6

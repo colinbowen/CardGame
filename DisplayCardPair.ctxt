@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DisplayCardPair()
+comment1.params=c1p\ c2p
+comment1.target=void\ setCards(Card,\ Card)
+comment2.params=
+comment2.target=void\ loadImages()
+comment3.params=
+comment3.target=void\ blankWindow()
+comment4.params=g
+comment4.target=void\ paintComponent(java.awt.Graphics)
+comment5.params=c
+comment5.target=java.lang.String\ cardToFilename(Card)
+numComments=6

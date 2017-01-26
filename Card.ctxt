@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Card()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Card\n
+comment1.params=suit\ value
+comment1.target=Card(Suit,\ Value)
+comment1.text=\n\ Constructor\ for\ the\ card.\ Takes\ a\ suit\ and\ value\ as\ a\ parameter.\n
+comment2.params=
+comment2.target=Suit\ getSuit()
+comment2.text=\n\ Return\ the\ suit\ of\ the\ card.\n
+comment3.params=
+comment3.target=Value\ getValue()
+comment3.text=\n\ Return\ the\ value\ of\ the\ card.\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ Return\ the\ card\ details\ in\ the\ form\ Value\ +\ of\ +\ Suit.\n
+numComments=5
